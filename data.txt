@@ -1,1 +1,3 @@
-Version:2.000
+[general]
+
+version = "2.000"
