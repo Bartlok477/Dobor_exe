@@ -1,2 +1,2 @@
-[general]
-version = "3.000"
+﻿[general]
+version = "4.000"

@@ -1,1 +1,0 @@
-# Dobor_exe
