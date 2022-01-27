@@ -1,2 +1,2 @@
 ﻿[general]
-version = "2.000"
+version = "1.000"
