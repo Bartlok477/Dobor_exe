@@ -1,2 +1,2 @@
-﻿1.0.0.2
-First second update!
+1.0.0.2
+Bug fixed and new addons!
