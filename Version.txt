@@ -1,2 +1,2 @@
-﻿2.0.0.0
-First test uppdate.
+﻿3.0.0.0
+First test uppdate. Uwaga uwaga!
