@@ -1,2 +1,2 @@
-1.0.0.5
+1.0.0.6
 Dodano strukturę do zapisu danych oraz naprawiono błędy!
