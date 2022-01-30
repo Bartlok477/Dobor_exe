@@ -1,2 +1,2 @@
-1.0.0.2
-Bug fixed and new addons!
+1.0.0.5
+Dodano strukturę do zapisu danych oraz naprawiono błędy!
