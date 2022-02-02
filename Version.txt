@@ -1,2 +1,2 @@
-1.0.1.0
-Dodano nowy wygląd!
+1.0.1.1
+Poprawiono wygląd i wprowadzono poprawi przy odczycie z normy!
