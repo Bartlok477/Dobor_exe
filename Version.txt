@@ -1,2 +1,2 @@
-1.0.1.1
-Poprawiono wygląd i wprowadzono poprawi przy odczycie z normy!
+1.0.1.2
+Hotfix oraz ikona aplikacji!
