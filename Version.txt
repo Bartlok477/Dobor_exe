@@ -1,2 +1,2 @@
-1.0.1.3
-Hotfix Tangensa fi oraz cosinusa fi!
+1.0.1.4
+Pare nowych dodatków :D 
