@@ -1,2 +1,2 @@
-1.0.1.5
-Dodano Hotfixa ułożenia B1 oraz pare usprawnień programowych
+1.0.1.6
+Poprawki wyglądu
