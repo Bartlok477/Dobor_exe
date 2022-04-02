@@ -1,2 +1,2 @@
-1.0.1.6
-Poprawki wyglądu
+1.0.1.7
+Dodatek obliczający uziemienia
